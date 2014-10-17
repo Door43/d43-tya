@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tya:home|Door43 (tya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tya|d43-tya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tya/archive/master.zip|d43-tya.zip]]
+
+**Recent Changes**
+{{changes>ns = tya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tya|Ethnologue data]]
+
